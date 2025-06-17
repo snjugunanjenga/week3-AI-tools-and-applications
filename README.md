@@ -31,17 +31,24 @@ The project consists of three main tasks:
 
 ## Implementation Details
 
-### Task 1 Implementation
+### Task 1: Text Classification Implementation
 ![Task 1 Implementation](Practical_Implementation/Screenshots/Task1implemetation.PNG)
 
-### Task 2 Implementation
+### Task 2: Sentiment Analysis Implementation
 ![Task 2 Implementation](Practical_Implementation/Screenshots/task2implementation1.PNG)
 
-### Task 2 Visualization
 ![Task 2 Visualization](Practical_Implementation/Screenshots/task2visualisation.PNG)
 
-### Task 2 Accuracy
 ![Task 2 Accuracy](Practical_Implementation/Screenshots/Task2accuracy.PNG)
+
+### Task 3: Named Entity Recognition and Sentiment Analysis
+![Entity Reviews Analysis](Practical_Implementation/Screenshots/entity_reviews.PNG)
+
+![Sample Entities](Practical_Implementation/Screenshots/Sample_entities.PNG)
+
+![Sentiment Analysis Results](Practical_Implementation/Screenshots/sentiment_reviews.PNG)
+
+![Sentiment Distribution](Practical_Implementation/Screenshots/Sentiments.PNG)
 
 ## Project Structure
 ```
@@ -53,7 +60,11 @@ The project consists of three main tasks:
 │   │   ├── Task1implemetation.PNG
 │   │   ├── task2implementation1.PNG
 │   │   ├── task2visualisation.PNG
-│   │   └── Task2accuracy.PNG
+│   │   ├── Task2accuracy.PNG
+│   │   ├── entity_reviews.PNG
+│   │   ├── Sample_entities.PNG
+│   │   ├── sentiment_reviews.PNG
+│   │   └── Sentiments.PNG
 │   └── content/
 │       └── amazon/
 │           └── amazon_reviews.csv
